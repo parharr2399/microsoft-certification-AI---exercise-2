@@ -29,6 +29,8 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Quick risks & dependencies:
 - Proposed team / roles:
 
+*When listing team roles, refer to [Roles & Personas](octoacme-roles-and-personas.md) for standard role definitions including Product Manager, Product Owner, Project Manager, Developers, QA Lead, UX Designer, and Business Analyst.*
+
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
 - [ ] Sponsor / Stakeholder alignment (email or meeting)
@@ -41,3 +43,7 @@ Move to planning when:
 - Success metrics are clear
 - Stakeholders agree on priority
 - Team availability is confirmed
+
+## Related Documentation
+- [Roles & Personas](octoacme-roles-and-personas.md) - Understand available roles for team composition
+- [RACI Chart Template](octoacme-raci-chart-template.md) - Use during planning to clarify responsibilities
