@@ -26,14 +26,22 @@ The following documents provide detailed guidance for each phase of our project 
 - [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) - Learning from each project to improve future outcomes
 - [Roles & Personas](octoacme-roles-and-personas.md) - Understanding team roles, responsibilities, and stakeholder personas
 
+## Templates & Tools
+
+The following templates help teams implement OctoAcme's process effectively:
+
+- [RACI Chart Template](octoacme-raci-chart-template.md) - Clarify roles and responsibilities for project activities
+- [Team Onboarding Checklist](octoacme-onboarding-checklist-template.md) - Onboard new team members efficiently across all roles
+
 ## Getting Started
 
 If you're new to OctoAcme or joining a project team:
 
 1. Start with the [Project Management Overview](octoacme-project-management-overview.md) to understand our core principles and approach
 2. Review [Roles & Personas](octoacme-roles-and-personas.md) to understand your role and how you interact with others
-3. Familiarize yourself with the specific phase documents relevant to your current project stage
-4. Keep these documents handy as a reference throughout the project lifecycle
+3. Use the [Team Onboarding Checklist](octoacme-onboarding-checklist-template.md) to ensure you complete all necessary onboarding steps
+4. Familiarize yourself with the specific phase documents relevant to your current project stage
+5. Keep these documents handy as a reference throughout the project lifecycle
 
 ## Contributing to These Docs
 

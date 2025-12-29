@@ -41,3 +41,10 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+- [ ] RACI chart created to clarify roles and responsibilities (use [RACI Chart Template](octoacme-raci-chart-template.md))
+- [ ] Key team members identified and onboarded (use [Onboarding Checklist](octoacme-onboarding-checklist-template.md))
+
+## Related Documentation
+- [RACI Chart Template](octoacme-raci-chart-template.md) - Clarify accountability for project activities
+- [Roles & Personas](octoacme-roles-and-personas.md) - Understand team member responsibilities
+- [Team Onboarding Checklist](octoacme-onboarding-checklist-template.md) - Onboard new team members
